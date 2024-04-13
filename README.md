@@ -81,17 +81,12 @@ graph TD;
 <br>
 </div>
   
-<!--- Country ---> 
-<a href="https://github.com/diogodsa"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@diogodsa" border="0"></a>
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:diogodsa@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="diogodsa@gmail.com" height="30" width="40" /></a>
 <a href="https://twitter.com/diogosantosbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Alimustoofaa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/diogoss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ali-mustofa-778b9a189" height="30" width="40" /></a>
 </p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/diogodsa)
 
 
 
