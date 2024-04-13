@@ -5,13 +5,13 @@
 <h4 align="center"><i>Building IA-Based Products | Lead Data Scientist 📈</i></h4>
 <br>
 
-This is my github repo where I keep some of my personal projects and presentations while exploring various topics in Data science.![](https://komarev.com/ghpvc/?username=andysingal)
+This is my github repo where I keep some of my personal projects and presentations while exploring various topics in Data science.![](https://komarev.com/ghpvc/?username=diogodsa)
 
 
 If you are interested in more details 
 PS: 
 - 👨‍💻 You can also find me on Twitter [(@diogosantosbr)](https://twitter.com/diogosantosbr)
-- 📚 LinkedIn [in/diogoss](https://www.linkedin.com/in/ankushsingal/)
+- 📚 LinkedIn [in/diogoss](https://www.linkedin.com/in/diogoss/)
 - 📚 Medium [(@diogodsa)](https://medium.com/@diogodsa)
 - 📚 Kaggle [DiogoSantos](https://www.kaggle.com/diogodsa)
 
@@ -46,35 +46,6 @@ graph TD;
     Data-Scientist-->Computer_viasion ;
    ```
    
- <!--Coordenadas  - My Home-->
-  
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-77.4286, 39.0481],
-              [-77.2085, 39.0481],
-              [-77.2085, 38.9343],
-              [-77.4286, 38.9343],
-              [-77.4286, 39.0481]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-<!--Final do Contador de Visitas-->   
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{diogodsa}/count.svg" /></p> 
